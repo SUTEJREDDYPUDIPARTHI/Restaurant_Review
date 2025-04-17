@@ -3,7 +3,7 @@ This project performs sentiment analysis on restaurant reviews using Natural Lan
 
 How to Run
 1. Clone the repository:
-git clone https://github.com/SUTEJREDDYPUDIPARTHI/Restaurant-Review.git
+git clone https://github.com/SUTEJREDDYPUDIPARTHI/Restaurant_Review
 
 2. Open Restaurant_Review_Analysis.ipynb in Jupyter Notebook
 
